@@ -1,3 +1,3 @@
 ## Lancer la page
 
-Aucune installe n'est nécessaire, si vous avez Live Server d'installer simplement lancer le server et run la page index.html
+Aucune installation n'est nécessaire, lancer un server (ex: Live Server) et run la page index.html
